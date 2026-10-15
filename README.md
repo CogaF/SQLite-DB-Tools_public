@@ -5,7 +5,7 @@ documents and reports. Free of charge for any use, no license key, no registrati
 
 | | |
 |---|---|
-| **Version** | 1.0.0-rc.1 (release candidate) |
+| **Version** | v2.0.0-cmt.87 (release) |
 | **Platform** | Windows, 64-bit |
 | **Price** | Free of charge, personal or commercial |
 | **Source code** | Private (this repository contains the program only) |
